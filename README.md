@@ -28,5 +28,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mug1vara97&theme=midnight_purple" width="45%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mug1vara97&theme=midnight_purple" width="45%" />
 </div>
-
-![snake](https://github.com/Mug1vara97/Mug1vara97/blob/output/github-contribution-grid-snake-dark.svg)
