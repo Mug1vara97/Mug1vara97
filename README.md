@@ -28,18 +28,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mug1vara97&theme=midnight_purple" width="45%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mug1vara97&theme=midnight_purple" width="45%" />
 </div>
-<picture>
-  
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mug1vara97/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mug1vara97/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Mug1vara/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+![snake](https://github.com/Mug1vara97/Mug1vara97/blob/output/github-contribution-grid-snake-dark.svg)
