@@ -28,3 +28,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mug1vara97&theme=midnight_purple" width="45%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mug1vara97&theme=midnight_purple" width="45%" />
 </div>
+ 
